@@ -1,5 +1,5 @@
 #  Projeto: Arquitetura e Simulação de CPU e ULA (8-Bits)
-
+Link do video: https://www.youtube.com/watch?v=Ijn7x_YQMOY
 
 ##  Resumo do Projeto
 Este projeto consiste no desenvolvimento e simulação de uma arquitetura base de processamento de 8 bits, construída inteiramente com portas lógicas e circuitos integrados (CIs) da família 74HC no ambiente Tinkercad. O objetivo principal é demonstrar, na prática, os princípios fundamentais da computação em baixo nível, incluindo a geração de pulsos de *Clock*, operações lógicas e o processamento aritmético de soma e subtração binária utilizando o método de Complemento de 2.
